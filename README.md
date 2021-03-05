@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moha-boukhatem
-- 👀 I’m interested in Python & Django Rest
-- 🌱 I’m currently learning Vuejs
+- 👀 I’m interested in Python Django Rest 
+- 🌱 I’m currently learning data science
 
 
 <!---
