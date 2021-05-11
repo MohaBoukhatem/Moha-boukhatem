@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moha-boukhatem
-- 👀 I’m interested in Python & Django 
+- 👀 I’m interested in Python & Django REST
 - 🌱 I’m currently learning Django rest
 
 
