@@ -42,10 +42,22 @@
 
 <p>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="tf" width="40" height="40"/></a> 
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="tf" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tf" width="40" height="40"/> </a>  
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="tf" width="40" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tableau-icon.svg" alt="tf" width="40" height="40"/> </a>  
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="tf" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="tf" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="tf" width="40" height="40"/> </a> 
+
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tf" width="40" height="40"/> </a>  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="tf" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="tf" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="tf" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="tf" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/tableau-icon.svg" alt="tf" width="40" height="40"/> </a>  
+
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="tf" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="tf" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="tf" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="tf" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="tf" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="tf" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="tf" width="40" height="40"/> </a> 
+
+
 </p>
