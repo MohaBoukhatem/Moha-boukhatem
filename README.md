@@ -28,7 +28,9 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Moha-boukhatem&theme=dracula" alt="Moha-boukhatem" /></a>
 </p>
 
-
+<p align="center">
+<img src="https://metrics.lecoq.io/Moha-boukhatem?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.ignored=html%2Ccss%2C&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Africa%2FAlgiers" />
+</p>
 
 <!--END_SECTION:waka-->
 
