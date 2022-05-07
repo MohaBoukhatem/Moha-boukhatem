@@ -16,7 +16,7 @@
 
 ### A little more about me...  
 - CS Student
-- Interested in Python & AI
+- Interested in AI & Data
 
 
 ---
