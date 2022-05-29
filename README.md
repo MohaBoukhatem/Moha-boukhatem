@@ -7,6 +7,6 @@
 
 - Interested in Data, ML/DL & Back End Developement
 
-- Worked on ML based on LSTM Architecture by creating Handwritten Text Recognition system
+- Currently Work on ML based on LSTM Architecture by creating Handwritten Text Recognition system
 
-- Contact me on <a href="https://www.linkedin.com/in/mohamed-el-hadi-boukhatem-a38474174/">Linkedin</a>
+- Contact me on <a href="https://www.linkedin.com/in/mohamed-el-hadi-boukhatem-a38474174/">LinkedIn</a>
