@@ -7,7 +7,7 @@
  
 - 🌱  I’m Currently learning Django Rest by practicing !
 
-- 📌  I’m working on ML based on LSTM Architecture by creating Handwritten Text Recognition system
+- 📌  I’m working on Handwritten Text Recognition system based on CNN & LSTM Architectures 
 
 - 🎓  Graduated with a Master in Computer Science (Information Systems' Engineering)
 
