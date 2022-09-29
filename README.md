@@ -7,7 +7,7 @@
  
 - 🌱  I’m Currently learning Django Rest by practicing !
 
-- 📌  I’m working on Handwritten Text Recognition system based on CNN & BLSTM Architectures 
+- 📌  I worked on Handwritten Text Recognition system based on CNN ,BLSTM & CTC Architectures 
 
 - 🎓  Graduated with a Master in Computer Science (Information Systems' Engineering)
 
