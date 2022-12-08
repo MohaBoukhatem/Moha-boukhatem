@@ -1,7 +1,7 @@
 
 <h2>Mohamed El Hadi Boukhatem</h2>
 
-- 👨🏻‍💻  Currently doing Internship as Back End Developer at <a href="https://www.linkedin.com/company/neo-fintech/mycompany/"> Neo Fintech</a>
+- 👨🏻‍💻  Backend Developer at <a href="https://www.linkedin.com/company/neo-fintech/mycompany/"> Neo Fintech</a>
 
 - ✨  Interested in Data, ML/DL & Back End Developement
  
