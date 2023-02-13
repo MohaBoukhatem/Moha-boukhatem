@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻  Backend Developer at <a href="https://www.linkedin.com/company/neo-fintech/mycompany/"> Neo Fintech</a>
 
-- ✨  Interested in Data, ML/DL & Back End Developement
+- ✨  Interested in Data, ML/DL & Backend Developement
  
 - 🌱  I’m Currently learning Django Rest by practicing !
 
