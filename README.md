@@ -9,6 +9,6 @@
 
 - 🎓  Graduated from Mostaganem University, Algeria
  
-- 📌  I worked on Handwritten Text Recognition system based on CNN ,BLSTM & CTC Architectures for my graduation project
+- 📌  I worked on Handwritten Text Recognition system based on CNN ,BLSTM & CTC Architectures
 
 - 📨  Contact me on <a href="www.linkedin.com/in/mohaboukhatem">LinkedIn</a> , <a href="mailto:mohamedelhadiboukhatem@gmail.com">Gmail</a>
